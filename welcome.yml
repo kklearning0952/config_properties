@@ -1,4 +1,5 @@
-msg:Welcome to Sachin Sir Learning
+msg:
+  Welcome to Sachin Sir Learning
 
 server:
   port: 9090
